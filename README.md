@@ -6,7 +6,7 @@ Song Naga
 
 ## Description
 
-Takshaka Patch is a series of configurations for the Daisy Seed Patch Eurorack module used for testing the features of the Takshaka Supersaw Oscillator Desktop Synthesizer project.  
+Takshaka Patch is a series of configurations for the Daisy Seed Patch Eurorack module used for testing the features of the [Takshaka Supersaw Oscillator Desktop Synthesizer](https://github.com/wendallsan/song-naga-takshaka) project.  
 
 Oscillators Configuration:
 
