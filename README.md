@@ -15,7 +15,7 @@ Oscillators Configuration:
 
 Filters Configuration:
 
-- Distortion/Gain control is in series before the filters
-- Resonant Ladder Low Pass filter
-- Comb filter
+- pre-filter Distortion with amount adjustment
+- Resonant Ladder Low Pass filter with CV controlled Frequency
+- Comb filter with CV controlled __
 - filters are in series and their order can be swapped
